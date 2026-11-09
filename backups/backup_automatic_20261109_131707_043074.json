@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1fbae74d-8cb9-44de-9fb2-05c7d19f38a6",
+        "type": "expense",
+        "description": "for lunch",
+        "amount": 4000,
+        "category": "Food",
+        "date": "2026-11-09"
+    },
+    {
+        "id": "78e2457e-a9d9-4c3c-a79a-6de408200c18",
+        "type": "expense",
+        "description": "for supper",
+        "amount": 5000,
+        "category": "Food",
+        "date": "2026-11-09"
+    }
+]
